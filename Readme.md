@@ -68,4 +68,5 @@ The Project Workflow is as follows :-
 ## Authors
 
 - [@Rajat Petwal](https://github.com/rounin-rp)
+- [@Gautam Rawat](https://github.com/GautamR24)
 
